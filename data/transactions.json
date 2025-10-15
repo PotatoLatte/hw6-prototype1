@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2025-10-01",
+    "amount": 1200,
+    "category": "Rent",
+    "note": "Monthly rent payment"
+  },
+  {
+    "date": "2025-10-03",
+    "amount": 85.50,
+    "category": "Food",
+    "note": "Grocery shopping"
+  },
+  {
+    "date": "2025-10-05",
+    "amount": 45.20,
+    "category": "Transport",
+    "note": "Gas station"
+  },
+  {
+    "date": "2025-10-08",
+    "amount": 150,
+    "category": "Utilities",
+    "note": "Electric and water bill"
+  },
+  {
+    "date": "2025-10-12",
+    "amount": 65,
+    "category": "Entertainment",
+    "note": "Concert tickets"
+  },
+  {
+    "date": "2025-10-15",
+    "amount": 120.75,
+    "category": "Shopping",
+    "note": "Clothing"
+  },
+  {
+    "date": "2025-10-18",
+    "amount": 95.30,
+    "category": "Food",
+    "note": "Restaurants"
+  },
+  {
+    "date": "2025-10-22",
+    "amount": 30,
+    "category": "Other",
+    "note": "Miscellaneous"
+  },
+  {
+    "date": "2025-09-05",
+    "amount": 1200,
+    "category": "Rent",
+    "note": "Monthly rent payment"
+  },
+  {
+    "date": "2025-09-10",
+    "amount": 110.40,
+    "category": "Food",
+    "note": "Grocery shopping"
+  },
+  {
+    "date": "2025-09-15",
+    "amount": 55,
+    "category": "Transport",
+    "note": "Gas and transit"
+  },
+  {
+    "date": "2025-09-20",
+    "amount": 140,
+    "category": "Utilities",
+    "note": "Monthly utilities"
+  }
+]
